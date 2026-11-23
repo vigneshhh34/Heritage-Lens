@@ -83,7 +83,7 @@ Heritage-Lens/
 ## Download the trained model and results
 
 Trained classifier (`best.pt`, `classes.json`), result tables and the report are available here:
-[Google Drive folder]([PASTE-YOUR-LINK-HERE](https://drive.google.com/drive/folders/1DeX--Mjz75my_Hcs9Zj2EvmTSV0o2Ilb?usp=drive_link))
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-Model%20%26%20results-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1DeX--Mjz75my_Hcs9Zj2EvmTSV0o2Ilb?usp=drive_link)
 
 To run the app, copy `best.pt` and `classes.json` into `MyDrive/heritage-lens/models/` in your own Google Drive, then run `notebooks/02_restoration_and_app.ipynb`.
 The notebooks were developed in **Google Colab with a T4 GPU**.
